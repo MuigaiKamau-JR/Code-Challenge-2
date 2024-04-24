@@ -2,7 +2,7 @@
 
 #### Date, 2018/09/14
 
-#### By *Hamida Mstafa Mohamed*
+#### By *TED DANIEL KAMAU*
 
 ## Description
 It's a webpage that shows different types of triangles and what they look like.
